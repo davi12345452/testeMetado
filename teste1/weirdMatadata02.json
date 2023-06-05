@@ -1,5 +1,23 @@
 {
-    "name": "Stolen Ship",
     "description": "Weird Band combines music, cartoons and games into a unique Web3 project. Holders will be able to use their characters and collect benefits in the Weird Band experiences.",
-    "image": "https://parsefiles.back4app.com/Xz46bQ1hZnI5ErWIEhhre7zlNXlXxRIzFZjt5t21/38710de70980aa73a5209c78f4c219c2_placeholder_ship.gif"
-}
+    "image": "https://parsefiles.back4app.com/Xz46bQ1hZnI5ErWIEhhre7zlNXlXxRIzFZjt5t21/63a250ba520720684bfac6a0ddcb0b24_Three_Tones_03_Lady_Kinky.png",
+    "animation_url": "https://parsefiles.back4app.com/Xz46bQ1hZnI5ErWIEhhre7zlNXlXxRIzFZjt5t21/073c1943355acf3ca20b77b2f6355fd5_Three_Tones_03_Lady_Kinky.mp4",
+    "attributes": [
+      {
+        "trait_type": "Character",
+        "value": "Lady Kinky"
+      },
+      {
+        "trait_type": "Role",
+        "value": "Harmony"
+      },
+      {
+        "trait_type": "Places",
+        "value": "Three Tones"
+      },
+      {
+        "trait_type": "Musical Genre",
+        "value": "All"
+      }
+    ]
+  }

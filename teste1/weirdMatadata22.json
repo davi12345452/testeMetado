@@ -1,5 +1,23 @@
 {
-    "name": "Stolen Ship",
     "description": "Weird Band combines music, cartoons and games into a unique Web3 project. Holders will be able to use their characters and collect benefits in the Weird Band experiences.",
-    "image": "https://parsefiles.back4app.com/Xz46bQ1hZnI5ErWIEhhre7zlNXlXxRIzFZjt5t21/38710de70980aa73a5209c78f4c219c2_placeholder_ship.gif"
-}
+    "image": "https://parsefiles.back4app.com/Xz46bQ1hZnI5ErWIEhhre7zlNXlXxRIzFZjt5t21/df3e73077723ed3d3f6ee0dd3f0463a2_Secret_Lab_02_Sneeze.png",
+    "animation_url": "https://parsefiles.back4app.com/Xz46bQ1hZnI5ErWIEhhre7zlNXlXxRIzFZjt5t21/59c5fe9337b78145fd0a8329960a1759_Secret_Lab_02_Sneeze.mp4",
+    "attributes": [
+      {
+        "trait_type": "Character",
+        "value": "Sneeze"
+      },
+      {
+        "trait_type": "Role",
+        "value": "Melody"
+      },
+      {
+        "trait_type": "Places",
+        "value": "Secret Lab"
+      },
+      {
+        "trait_type": "Musical Genre",
+        "value": "All"
+      }
+    ]
+  }

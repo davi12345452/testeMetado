@@ -1,5 +1,23 @@
 {
-    "name": "Stolen Ship",
     "description": "Weird Band combines music, cartoons and games into a unique Web3 project. Holders will be able to use their characters and collect benefits in the Weird Band experiences.",
-    "image": "https://parsefiles.back4app.com/Xz46bQ1hZnI5ErWIEhhre7zlNXlXxRIzFZjt5t21/38710de70980aa73a5209c78f4c219c2_placeholder_ship.gif"
-}
+    "image": "https://parsefiles.back4app.com/Xz46bQ1hZnI5ErWIEhhre7zlNXlXxRIzFZjt5t21/39859b4b50bef8decb068b06d4631521_Garage_Jam_01_Gulp.png",
+    "animation_url": "https://parsefiles.back4app.com/Xz46bQ1hZnI5ErWIEhhre7zlNXlXxRIzFZjt5t21/e638087de7270dc33b85f2b41d8e0ac4_Garage_Jam_01_Gulp.mp4",
+    "attributes": [
+        {
+        "trait_type": "Character",
+        "value": "Gulp"
+        },
+        {
+        "trait_type": "Role",
+        "value": "Rhythm"
+        },
+      {
+        "trait_type": "Places",
+        "value": "Garage Jam"
+      },
+      {
+        "trait_type": "Musical Genre",
+        "value": "All"
+      }
+    ]
+  }
