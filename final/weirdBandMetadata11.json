@@ -1,0 +1,23 @@
+{
+    "description": "Weird Band combines music, cartoons and games into a unique Web3 project. Holders will be able to use their characters and collect benefits in the Weird Band experiences.",
+    "image": "https://parsefiles.back4app.com/Xz46bQ1hZnI5ErWIEhhre7zlNXlXxRIzFZjt5t21/3410d178d3eada9f183a69a3bf8bf437_Beach_Sunset_03_Lady_Kinky.png",
+    "animation_url": "https://parsefiles.back4app.com/Xz46bQ1hZnI5ErWIEhhre7zlNXlXxRIzFZjt5t21/65fde30081fb27e1ca90e0a0da7ef9a3_Beach_Sunset_03_Lady_Kinky.mp4",
+    "attributes": [
+        {
+        "trait_type": "Character",
+        "value": "Lady Kinky"
+        },
+        {
+        "trait_type": "Role",
+        "value": "Harmony"
+        },
+        {
+        "trait_type": "Places",
+        "value": "Beach Sunset"
+        },
+        {
+        "trait_type": "Musical Genre",
+        "value": "All"
+        }
+    ]
+  }

@@ -1,0 +1,23 @@
+{
+    "description": "Weird Band combines music, cartoons and games into a unique Web3 project. Holders will be able to use their characters and collect benefits in the Weird Band experiences.",
+    "image": "https://parsefiles.back4app.com/Xz46bQ1hZnI5ErWIEhhre7zlNXlXxRIzFZjt5t21/3ebb18ccf3cca25db796617cb4edf77d_Beach_Sunset_01_Gulp.png",
+    "animation_url": "https://parsefiles.back4app.com/Xz46bQ1hZnI5ErWIEhhre7zlNXlXxRIzFZjt5t21/385c9b40675139c7827d48b6a7fd82ac_Beach_Sunset_01_Gulp.mp4",
+    "attributes": [
+        {
+        "trait_type": "Character",
+        "value": "Gulp"
+        },
+        {
+        "trait_type": "Role",
+        "value": "Rhythm"
+        },
+        {
+        "trait_type": "Places",
+        "value": "Beach Sunset"
+        },
+        {
+        "trait_type": "Musical Genre",
+        "value": "All"
+        }
+    ]
+  }
